@@ -54,7 +54,7 @@
 
 1. Клонируйте репозиторий и перейдите в папку проекта:
 
-```bash
+```powershell
 git clone https://github.com/alxr-dev/Vortex.git
 cd Vortex
 
