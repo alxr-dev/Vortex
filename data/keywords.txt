@@ -1,0 +1,2 @@
+# Telegram keywords file
+# One keyword per line
