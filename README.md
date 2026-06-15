@@ -55,8 +55,8 @@
 1. Клонируйте репозиторий и перейдите в папку проекта:
 
 ```bash
-git clone https://github.com/your-username/vortex.git
-cd vortex
+git clone https://github.com/alxr-dev/Vortex.git
+cd Vortex
 
 ```
 
